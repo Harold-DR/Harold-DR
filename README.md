@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harold-DR
-- 👀 I’m interested in anything
+- 👀 I’m interested in...
 - 🌱 I’m currently learning DL
 
 
